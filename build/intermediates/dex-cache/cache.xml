@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d2fca1ae3cb8ccd155d00713c7e153bd86f2c3">
+        <dex dex="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/pre-dexed/debug/classes_3e99e3ce1b92d60c322eec15c0149d696e10eb9c.jar" />
+    </item>
+    <item
+        jar="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_deb5ef2be987c4168148c13915a2990998062d40.jar" />
+    </item>
+    <item
+        jar="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_c00901bbb02ce0552871dd2c0f676dbb82914ae3.jar" />
+    </item>
+    <item
+        jar="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_7ea2725ffe37477aa59b1b8a249440db73f9fde8.jar" />
+    </item>
+    <item
+        jar="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_6b9ba1f2b6bdfe4d97ae0355c3d15d4bb45f86bc.jar" />
+    </item>
+    <item
+        jar="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c635fa0a477c379413987dc0902d356224c912ea">
+        <dex dex="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/pre-dexed/debug/instant-run_9a3ed4d626a8a22341e4183daa3d1151d9b35904.jar" />
+    </item>
+    <item
+        jar="/Work/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_dbbc7a240336baad2c4f8f9b2a07db4530db1230.jar" />
+    </item>
+    <item
+        jar="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/workspace/adbtime/first/ExceptionHandlerDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_084f3090c99516a67abecdb7f27f9f2c4d53c049.jar" />
+    </item>
+
+</items>

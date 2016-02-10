@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crashlib</string>
+    <string name="activity_default_error_occurred_explanation">An unexpected error occurred.</string>
+    <string name="activity_default_error_unknown_exception">Unknown exception</string>
+    <string name="activity_default_error_restart_app">重启应用</string>
+    <string name="activity_default_error_close_app">关闭应用</string>
+    <string name="activity_default_error_details">错误log</string>
+    <string name="activity_default_error_details_title">错误log</string>
+    <string name="activity_default_error_details_close">Close</string>
+    <string name="activity_default_error_details_copy">Copy to clipboard</string>
+    <string name="activity_default_error_details_copied">Copied to clipboard</string>
+    <string name="activity_default_error_details_clipboard_label">Error information</string>
+</resources>
